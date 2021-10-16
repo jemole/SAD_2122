@@ -3,8 +3,8 @@ Este repositorio recopila [información](#info) y algunos de los [trabajos prác
 
 Cada trabajo ha sido elaborado por un estudiante y revisado al menos por otros dos alumnos. Para la coordinación del trabajo se ha utilizado un software de administración de proyectos siguiendo el sistema Kanban.
 
-## Enlaces a trabajos de estudiantes {#trabajos}
+## <a name="trabajos"></a>Enlaces a trabajos de estudiantes
 
-## Información y recursos {#info}
+## <a name="info"></a>Información y recursos
 
 - Todas las **portadas** de los vídeos tienen que seguir [estas instrucciones](https://github.com/jemole/SAD_2122/blob/main/IdentidadGrafica/Portada.md).
