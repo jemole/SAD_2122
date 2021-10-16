@@ -8,5 +8,5 @@ Cada trabajo ha sido elaborado por un estudiante y revisado al menos por otros d
 ## <a name="info"></a>Información y recursos
 
 - Todas las **portadas** de los vídeos tienen que seguir [estas instrucciones](https://github.com/jemole/SAD_2122/blob/main/IdentidadGrafica/Portada.md).
-- Si queréis enriquecer sonoramente vuestros vídeos, aquí tenéis un par de repositorios de música y sonidos libres: [Unminus](https://www.unminus.com/) y [FreeSound](https://www.unminus.com/).
+- Si queréis enriquecer sonoramente vuestros vídeos, aquí tenéis un par de repositorios de música y sonidos libres: [Unminus](https://www.unminus.com/) y [FreeSound](https://freesound.org/).
 - Y aquí uno de imágenes libres: [Unsplash](https://unsplash.com/)
