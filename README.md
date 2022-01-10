@@ -14,6 +14,7 @@ Cada trabajo ha sido elaborado por un estudiante y revisado al menos por otros d
 - [Cifrado asimétrico, Guillermo Vizcaíno](https://github.com/guillevr/Criptografia-cifrado-asimetrico-GPG-y-OpenSSL)
 - [Cifrado en SSH, Fernando Paéz](https://github.com/fernandopaezmartin/Criptografia_SSH)
 - [Cifrado en Thunderbird](https://github.com/antonioherediia/CifradoConThunderbird)
+- HTTPS: [Teoría (Fernando Paéz)](https://github.com/fernandopaezmartin/Criptografia-HTTPS) y [práctica (Antonio Heredia)](https://www.youtube.com/watch?v=usoBW1wteFg)
 
 ## <a name="info"></a>Información y recursos
 
