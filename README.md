@@ -9,6 +9,10 @@ Cada trabajo ha sido elaborado por un estudiante y revisado al menos por otros d
 - [Técnicas de phising, Antonio Heredia Sánchez](https://github.com/antonioherediia/sad_phising)
 - [Ataque DOS, Guillermo Vizcaíno Rodríguez](https://github.com/guillevr/Ataque-DDOS)
 ### Criptografía
+- [Cifrado simétrico, Isaac Pérez](https://github.com/isaacperezb/Cifrado-Sim-trico)
+- [Cifrado asimétrico, Guillermo Vizcaíno](https://github.com/guillevr/Criptografia-cifrado-asimetrico-GPG-y-OpenSSL)
+- [Cifrado en SSH, Fernando Paéz](https://github.com/fernandopaezmartin/Criptografia_SSH)
+- [Cifrado en Thunderbird](https://github.com/antonioherediia/CifradoConThunderbird)
 
 ## <a name="info"></a>Información y recursos
 
